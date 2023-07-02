@@ -6,6 +6,7 @@ looking for utilities that will enable developers to create custom report templa
 reading error reports etc. which would eventually increase the support team's efficiency.
 
 # Contributors
+
 Name | Designation | LinkedIn | 
 --- | --- | --- 
 Anuj Narayan Bhatt | Senior Software Developer | ![LinkedIn - Anuj Bhatt](https://www.linkedin.com/in/anuj-30bhatt/)
